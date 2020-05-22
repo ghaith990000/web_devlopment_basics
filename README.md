@@ -1,1 +1,1 @@
-# web_devlopment_basics
+# this is a basic topics about web development
